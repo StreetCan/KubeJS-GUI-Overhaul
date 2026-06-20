@@ -52,5 +52,5 @@ Step 9: Enjoy the new recipe (or script, depends on what you made)
 <img width="1920" height="1057" alt="javaw_nGystlQ0q7" src="https://github.com/user-attachments/assets/00418fba-59ef-4ae0-a153-9b3cb51cff2c" />
 
 Note: You can share and use templates, they will retain the data for the canvas elements and other metadata.
-Also keep in mind the public repo is still being tested, so you have to make your own reciipes for the time being.
+Also keep in mind the public repo is still being tested, so you have to make your own recipes for the time being, but you will be able to upload templates and download them.
 
