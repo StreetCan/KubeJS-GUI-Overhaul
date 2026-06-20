@@ -1,4 +1,4 @@
-<img width="1920" height="1057" alt="javaw_RTGg3Wo7YL" src="https://github.com/user-attachments/assets/3cb4692f-7a9c-477f-a71e-5ab5277117a0" /># KubeJS-GUI-Overhaul
+# KubeJS-GUI-Overhaul
 Overhauled version of the mod, now with a template system, and web GUI
 
 To use it:
