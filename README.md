@@ -1,4 +1,4 @@
-# KubeJS-GUI-Overhaul
+<img width="1920" height="1057" alt="javaw_RTGg3Wo7YL" src="https://github.com/user-attachments/assets/3cb4692f-7a9c-477f-a71e-5ab5277117a0" /># KubeJS-GUI-Overhaul
 Overhauled version of the mod, now with a template system, and web GUI
 
 To use it:
@@ -6,4 +6,35 @@ To use it:
 Step 1: Click a chest with bedrock
 
 <img width="1920" height="1057" alt="javaw_6uSZpcc1OM" src="https://github.com/user-attachments/assets/8ac12425-ec19-4a13-ab2f-79a2b999c7b4" />
+
+Step 2: Either copy and paste the local host link into a browser or just click "Yes" to open it in the browser.
+
+<img width="1920" height="1057" alt="javaw_NuP8oTkWyi" src="https://github.com/user-attachments/assets/f8405404-dd80-4f06-986e-dad96e0ba7d9" />
+
+Step 3: Take a look around the GUI 
+
+<img width="1878" height="1002" alt="opera_a4bTy7dJIc" src="https://github.com/user-attachments/assets/5cc6c20b-782e-4580-8840-ee0789be1754" />
+
+Step 4: Add any items you may want to use later (this step can be done when ever), they will appear in the "ITEM PALETTE"
+
+<img width="1920" height="1057" alt="javaw_CmbKWxoegn" src="https://github.com/user-attachments/assets/4fc2da6e-9f62-4732-b492-533e674df108" />
+
+<img width="1878" height="1002" alt="opera_iRfIDFx2uL" src="https://github.com/user-attachments/assets/efd91fb0-0afa-43c5-83a5-44dde6ecc2ef" />
+
+Step 5: Either make a script or copy it from where ever like the KubeJS wiki and paste it in the script editor in the Template Builder tab (Shapeless recipe example in this case)
+
+<img width="1878" height="1002" alt="opera_voEYdFYHBM" src="https://github.com/user-attachments/assets/19c55092-bf2e-47b5-b07a-b5af58b1f5f6" />
+
+<img width="1878" height="1002" alt="opera_AkFIrpjSm5" src="https://github.com/user-attachments/assets/1bb6738f-3861-4eb2-a746-543a3860f15b" />
+
+Step 6: Drag the canvas elements onto the canvas, these will serve as inputs to the script. These templates dont have to be recipes, they can be any valid script with parameters you can specify.
+Name your script, preview the script in the bottom right and save it to either your instance or a universal folder. Instance will save it in you instance and universal will save it outside of it, so you can access it from other instances as well.
+
+<img width="1878" height="1002" alt="opera_cjMPluV28c" src="https://github.com/user-attachments/assets/a62a7454-f584-4f50-9988-adbbfda9a73d" />
+
+<img width="805" height="253" alt="opera_kR4bQnnRkB" src="https://github.com/user-attachments/assets/dd0ede80-7d10-4b12-b1ef-c8fae7b3ff4e" />
+(just delete the example data and put your cursor where they were and then click and the element you want to substitute it with, or just type it out manually, {{itemcount}} will return the integer that it contains when its used to generate a script, the {{out}} element will output the mod:itemid string when used to make a recipe)
+
+
+
 
