@@ -36,7 +36,7 @@ Name your script, preview the script in the bottom right and save it to either y
 
 (just delete the example data and put your cursor where they were and then click the element you want to substitute it with, or just type it out manually, {{itemcount}} will return the integer that it contains when its used to generate a script, the {{out}} element will output the mod:itemid string when used to make a recipe)
 
-Step 7: Use it in the "My Templates" tab, in this case the array was the best option for shapeless crafting so we just the items from the palette to the array, this will output an array of form: [Prefix][ItemID][Suffiix][Delimiter], it will not add a delimiter after the last entry in the array. You can preview the script that will be generated at the bottom, be sure to name and save it
+Step 7: Use it in the "My Templates" tab, in this case the array was the best option for shapeless crafting so we just drag the items from the palette to the array, this will output an array of form: [Prefix][ItemID][Suffiix][Delimiter], it will not add a delimiter after the last entry in the array. You can preview the script that will be generated at the bottom, be sure to name and save it
 
 <img width="1878" height="1002" alt="opera_PPciXwbAPr" src="https://github.com/user-attachments/assets/043aba6f-e53f-4ff4-b107-2885673a0972" />
 
